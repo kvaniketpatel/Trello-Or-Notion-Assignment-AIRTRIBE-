@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.dropdown {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    background-color: #fff;
+    border-radius: 3px;
+    min-height: 40px;
+    min-width: 80px;
+    width: fit-content;
+    height: fit-content;
+    max-width: 250px;
+    max-height: 390px;
+    overflow-y: auto;
+    z-index: 5;
+  }
